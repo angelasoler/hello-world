@@ -1,3 +1,5 @@
-# hello-world
+# hello-python
 
-**first steps**
+**first stepsin python**
+
+Studying funtions with python
