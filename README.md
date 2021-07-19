@@ -1,2 +1,5 @@
-# hello-world
- Store ideas and resources
+# hello-python
+
+**first steps in python**
+
+Studying funtions with python
